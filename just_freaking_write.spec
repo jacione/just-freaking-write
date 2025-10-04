@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='just_freaking_write',
+    name='jfwedit',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
